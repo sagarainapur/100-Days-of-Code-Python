@@ -17,3 +17,4 @@ e.g. When you hit run, this is what should happen:
 Day 1 - Python Print Function
 The function is declared like this:
 print('what to print')
+![image](https://user-images.githubusercontent.com/46922060/232302592-8f5e0420-f0b1-4d49-8422-3ab8a07ec19c.png)
