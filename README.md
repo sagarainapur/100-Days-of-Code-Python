@@ -1,7 +1,7 @@
 # 100-Days-of-Code-Python
 Mastering Python by building 100 projects in 100 days. Learn data science, automation, build websites, games and apps!
 
-##Exercise 1 - Printing
+## Exercise 1 - Printing
 Write a program in main.py that prints the same notes from the previous lesson using what you have learnt about the Python print function.
 
 Warning: The output in your program should match the example output shown below exactly, character for character, even spaces and symbols should be identical, otherwise the tests won't pass.
