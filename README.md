@@ -14,3 +14,6 @@ The function is declared like this:
 print('what to print')
 e.g. When you hit run, this is what should happen:
 ![image](https://user-images.githubusercontent.com/46922060/232302393-c32b6d88-a617-4efd-a964-0a5c8cc5f2e3.png)
+Day 1 - Python Print Function
+The function is declared like this:
+print('what to print')
